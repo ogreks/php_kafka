@@ -1,5 +1,19 @@
 {
-  "require": {
-    "qcloudsms/qcloudsms_php": "0.1.*"
-  }
+    "name": "higanbana/kafka",
+    "description": "基于PHP-Rdkafka 手撸包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaochou27",
+            "email": "higanbana98@hotmail.com"
+        }
+    ],
+    "require": {
+        "qcloudsms/qcloudsms_php": "0.1.*"
+    },
+    "autoload": {
+          "psr-4": {
+              "App\\":"kafka/"
+          }
+    }
 }

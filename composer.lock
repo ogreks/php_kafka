@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "357ff7645826f03782364db08a7799f7",
+    "content-hash": "29742b479f26a0d8c8103266cad5456e",
     "packages": [
         {
             "name": "qcloudsms/qcloudsms_php",

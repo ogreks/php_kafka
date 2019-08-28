@@ -7,7 +7,6 @@
  * @Time:16:26
  */
 namespace Kafka\Producer;
-require_once 'Kafka.php';
 
 use Kafka\Kafka;
 

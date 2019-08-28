@@ -103,6 +103,7 @@ class Kafka
                     break;
                 default:
                     throw new \Exception("未知错误".$err);
+                break;
             }
         });
 

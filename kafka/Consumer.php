@@ -7,10 +7,9 @@
  * @Time:17:36
  */
 
-namespace Kafka\Consumer;
-require_once 'Kafka.php';
+namespace kafka\Consumer;
 
-use Kafka\Kafka;
+use kafka\Kafka;
 
 class Consumer extends Kafka
 {
